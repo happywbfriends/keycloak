@@ -1,6 +1,6 @@
 module github.com/happywbfriends/keycloak
 
-go 1.20
+go 1.18
 
 require (
 	github.com/Nerzal/gocloak/v13 v13.8.0
@@ -8,7 +8,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/google/uuid v1.4.0
 	github.com/pkg/errors v0.9.1
-	github.com/valyala/fasthttp v1.50.0
+	github.com/valyala/fasthttp v1.51.0
 )
 
 require (
