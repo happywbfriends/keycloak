@@ -9,7 +9,6 @@ require (
 	github.com/google/uuid v1.4.0
 	github.com/pkg/errors v0.9.1
 	github.com/valyala/fasthttp v1.51.0
-	gitlab.wildberries.ru/portals/authorized-services/backend/pkg/http/keycloak v1.1.0
 )
 
 require (

@@ -2,7 +2,7 @@ package keycloak
 
 import (
 	"context"
-	"gitlab.wildberries.ru/portals/authorized-services/backend/pkg/http/keycloak/storage"
+	"github.com/happywbfriends/keycloak/storage"
 	"strings"
 
 	"github.com/Nerzal/gocloak/v13"
